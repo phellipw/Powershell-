@@ -16,3 +16,8 @@ script.
 
 Remove Network Interface que estejam sem Virtual Machines atreladas a ela, é um script que se deve  
 ter cautela em sua execução, porém muito prático para higienização de grandes ambientes.  
+
+### removernsgnull.ps1
+
+Remove NetworkSecurityGroup que estejam sem NetworkInterface atreladas ao mesmo, mais um script  
+que facilita na higienização da Azure !   
